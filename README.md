@@ -1,2 +1,2 @@
-# EveryDate
+# EveryDay
 Recorde
